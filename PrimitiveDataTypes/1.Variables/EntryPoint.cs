@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1.Variables
+namespace _01.Variables
 {
     class EntryPoint
     {
