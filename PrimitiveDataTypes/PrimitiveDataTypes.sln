@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FloatingPointDataTypes",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Characters", "04.Characters\04.Characters.csproj", "{B2F7FE70-2EED-47C6-97E1-3F580762DBBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Strings", "05.Strings\05.Strings.csproj", "{29721966-26B2-4A09-AE60-69D181E9B30E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B2F7FE70-2EED-47C6-97E1-3F580762DBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2F7FE70-2EED-47C6-97E1-3F580762DBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2F7FE70-2EED-47C6-97E1-3F580762DBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29721966-26B2-4A09-AE60-69D181E9B30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29721966-26B2-4A09-AE60-69D181E9B30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29721966-26B2-4A09-AE60-69D181E9B30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29721966-26B2-4A09-AE60-69D181E9B30E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
