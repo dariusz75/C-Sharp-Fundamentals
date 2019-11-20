@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace buildingStrings
+namespace _07.BuildingStrings
 {
     class EntryPoint
     {
