@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.IfElse", "09.IfElse\09.I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Switch", "10.Switch\10.Switch.csproj", "{9E3D776C-FAC6-41B3-AF53-424F828AA23A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.WhileLoop", "11.WhileLoop\11.WhileLoop.csproj", "{2490FE02-EA78-4841-A855-CD248E44B4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.MiniWhileGame", "12.MiniWhileGame\12.MiniWhileGame.csproj", "{C32D86B8-24B2-4FDF-9972-9E1AB87FF2CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{9E3D776C-FAC6-41B3-AF53-424F828AA23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E3D776C-FAC6-41B3-AF53-424F828AA23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E3D776C-FAC6-41B3-AF53-424F828AA23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2490FE02-EA78-4841-A855-CD248E44B4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2490FE02-EA78-4841-A855-CD248E44B4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2490FE02-EA78-4841-A855-CD248E44B4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2490FE02-EA78-4841-A855-CD248E44B4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32D86B8-24B2-4FDF-9972-9E1AB87FF2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32D86B8-24B2-4FDF-9972-9E1AB87FF2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32D86B8-24B2-4FDF-9972-9E1AB87FF2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32D86B8-24B2-4FDF-9972-9E1AB87FF2CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
