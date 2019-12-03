@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.MiniWhileGame", "12.Mini
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ForLoop", "13.ForLoop\13.ForLoop.csproj", "{1AC668C5-9A1D-487B-A931-B95B1D39B8BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.MethodsOverloading", "14.Methods\14.MethodsOverloading.csproj", "{67DA0EFB-2279-42DB-9CED-336EF3E3B16E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1AC668C5-9A1D-487B-A931-B95B1D39B8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AC668C5-9A1D-487B-A931-B95B1D39B8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AC668C5-9A1D-487B-A931-B95B1D39B8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DA0EFB-2279-42DB-9CED-336EF3E3B16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DA0EFB-2279-42DB-9CED-336EF3E3B16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DA0EFB-2279-42DB-9CED-336EF3E3B16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DA0EFB-2279-42DB-9CED-336EF3E3B16E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
