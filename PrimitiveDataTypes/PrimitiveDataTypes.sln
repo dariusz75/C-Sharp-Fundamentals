@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.MethodsOverloading", "14
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.ArraysOutputting", "15.ArraysOutputting\15.ArraysOutputting.csproj", "{24BE409A-47A3-45CC-B7F8-87D78B8845D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.ArraysClonning", "16.ArraysClonning\16.ArraysClonning.csproj", "{45EEDD87-AB38-440D-A37A-850B92388B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{24BE409A-47A3-45CC-B7F8-87D78B8845D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24BE409A-47A3-45CC-B7F8-87D78B8845D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24BE409A-47A3-45CC-B7F8-87D78B8845D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EEDD87-AB38-440D-A37A-850B92388B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EEDD87-AB38-440D-A37A-850B92388B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EEDD87-AB38-440D-A37A-850B92388B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EEDD87-AB38-440D-A37A-850B92388B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
